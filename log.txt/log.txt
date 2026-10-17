@@ -1,0 +1,25 @@
+2026-10-18 02:29:19.206  9583-9583  MainActivity            com.example.notes                    D  onStart
+2026-10-18 02:29:19.206  9583-9583  MainActivity            com.example.notes                    D  onResume
+2026-10-18 02:29:19.229  9583-9583  Surface                 com.example.notes                    I  Creating surface for consumer unnamed-9583-2 with slotExpansion=1 for 64 slots
+2026-10-18 02:29:19.229  9583-9583  Surface                 com.example.notes                    I  Creating surface for consumer VRI[MainActivity]#2(BLAST Consumer)2 with slotExpansion=1 ъ
+2026-10-18 02:29:19.360  9583-9583  InsetsController        com.example.notes                    D  hide(ime())
+2026-10-18 02:29:19.360  9583-9583  ImeTracker              com.example.notes                    I  com.example.notes:ec122da6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 02:29:19.373  9583-9591  m.example.notes         com.example.notes                    I  Background concurrent mark compact GC freed 2234KB AllocSpace bytes, 3(96KB) LOS objects, 
+2026-10-18 02:29:19.778  9583-9583  VRI[EditActivity]       com.example.notes                    D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 02:29:19.800  9583-9583  EditActivity            com.example.notes                    D  onStop
+2026-10-18 02:29:19.802  9583-9583  WindowOnBackDispatcher  com.example.notes                    D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-18 02:29:19.803  9583-9583  EditActivity            com.example.notes                    D  onDestroy
+2026-10-18 02:29:19.808  9583-9583  ViewRootImpl            com.example.notes                    D  Skipping stats log for color mode
+2026-10-18 02:29:21.975  9583-9583  MainActivity            com.example.notes                    D  onPause
+2026-10-18 02:29:22.012  9583-9583  EditActivity            com.example.notes                    D  onCreate
+2026-10-18 02:29:22.016  9583-9583  EditActivity            com.example.notes                    D  onStart
+2026-10-18 02:29:22.019  9583-9583  EditActivity            com.example.notes                    D  onResume
+2026-10-18 02:29:22.038  9583-9583  WindowOnBackDispatcher  com.example.notes                    D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@e7c51e7
+2026-10-18 02:29:22.039  9583-9630  WindowOnBackDispatcher  com.example.notes                    D  setOnBackInvokedCallbackInfo: android.app.Activity$$ExternalSyntheticLambda0@e7c51e7
+2026-10-18 02:29:22.040  9583-9583  VRI[EditActivity]       com.example.notes                    D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-18 02:29:22.050  9583-9583  Surface                 com.example.notes                    I  Creating surface for consumer unnamed-9583-3 with slotExpansion=1 for 64 slots
+2026-10-18 02:29:22.051  9583-9583  Surface                 com.example.notes                    I  Creating surface for consumer VRI[EditActivity]#3(BLAST Consumer)3 with slotExpansion=1 for 64 slots
+2026-10-18 02:29:22.232  9583-9583  InsetsController        com.example.notes                    D  hide(ime())
+2026-10-18 02:29:22.232  9583-9583  ImeTracker              com.example.notes                    I  com.example.notes:d8e3f6e3: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-18 02:29:22.610  9583-9583  VRI[MainActivity]       com.example.notes                    D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-18 02:29:22.643  9583-9583  MainActivity            com.example.notes                    D  onStop
