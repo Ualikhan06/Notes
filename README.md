@@ -5,6 +5,7 @@
 
 Ссылки на файлы
 Журнал логирования [(logs.txt)](logs/logs.txt)](https://github.com/Ualikhan06/Notes/blob/main/log.txt/log.txt)
+
 APK-файл - https://drive.google.com/file/d/1Jatz0dOh0oYdRX_c2ccyA5d3BHUvkxm5/view?usp=sharing
 
 Снимки экранов
