@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#9094CE</color>
+    <color name="bg_light">#E2E3F0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#888888</color>
+</resources>
